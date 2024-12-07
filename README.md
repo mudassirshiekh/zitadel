@@ -60,6 +60,7 @@ With ZITADEL, you are assured of a robust and customizable turnkey solution for 
 **[🏡 Website](https://zitadel.com) [💬 Chat](https://zitadel.com/chat) [📋 Docs](https://zitadel.com/docs/) [🧑‍💻 Blog](https://zitadel.com/blog) [📞 Contact](https://zitadel.com/contact/)**
 
 ## Get started
+## BY Mudassir Alam
 
 👉 [Quick Start Guide](https://zitadel.com/docs/guides/start/quickstart)
 
